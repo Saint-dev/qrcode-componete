@@ -1,0 +1,2 @@
+# qrcode-componete
+card qrcode
